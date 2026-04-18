@@ -1,6 +1,6 @@
 # 🛍️ News App
 
-A modern Flutter e-commerce application.
+A modern Flutter News application.
 
 ---
 
